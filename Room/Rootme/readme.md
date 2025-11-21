@@ -26,7 +26,7 @@ PORT   STATE SERVICE VERSION
 |   2048 4a:b9:16:08:84:c2:54:48:ba:5c:fd:3f:22:5f:22:14 (RSA)
 |   256 a9:a6:86:e8:ec:96:c3:f0:03:cd:16:d5:49:73:d0:82 (ECDSA)
 |_  256 22:f6:b5:a6:54:d9:78:7c:26:03:5a:95:f3:f9:df:cd (ED25519)
-80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
 | http-cookie-flags: 
 |   /: 
 |     PHPSESSID: 
